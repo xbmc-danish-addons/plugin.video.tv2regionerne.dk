@@ -1,3 +1,8 @@
+[B]Version 1.2.0 - 2011-08-xx[/B]
+- Completely rewritten again to use RSS Podcast feeds
+  as the solution in version 1.1.0 was too fragile.
+  Unfortunately not all regions provide Podcast feeds.
+
 [B]Version 1.1.0[/B]
 - Rewritten to use individual websites instead of tv2regionerne.dk,
   because this is no longer updated
